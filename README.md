@@ -16,7 +16,7 @@ Objectives :
 
 # Project Key-Points
 
-Excel data cleaning, Sorting, Visualization, Interactive annual report Dashboard, and Slicing in Excel. 
+Excel data cleaning, Sorting, Visualization, data aggregation, Interactive annual report Dashboard, and Slicing in Excel. 
 
 # Outcomes :
 Target women customers of the age group (30-49 yrs) living in Maharashtra, Karnataka and Uttar Pradesh by showing ads/offers/coupons available on Amazon, Flipkart and Myntra
